@@ -1,0 +1,40 @@
+{
+  "name": "graphql-bundler",
+  "version": "0.1.0",
+  "description": "Manage GraphQL type definitions and resolvers in separate files and bundle them together with",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sformisano/graphql-bundler.git"
+  },
+  "keywords": [
+    "GraphQL",
+    "Typedefs",
+    "Resolvers",
+    "Schema",
+    "GraphQL",
+    "Tools",
+    "GraphQL-Tools"
+  ],
+  "author": "Salvatore Formisano <hello@salvatoreformisano.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/sformisano/graphql-bundler/issues"
+  },
+  "homepage": "https://github.com/sformisano/graphql-bundler#readme",
+  "devDependencies": {
+    "coveralls": "^3.0.1",
+    "lodash": "^4.17.10",
+    "mocha": "^5.1.1",
+    "mocha-lcov-reporter": "^1.3.0",
+    "rewire": "^4.0.1"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "get-files-matching-glob": "1.0.4",
+    "glob": "^7.1.2"
+  }
+}
