@@ -108,4 +108,4 @@ Essentially, the two bundler functions exported by GraphQL Bundler do the follow
 
 ## Why I Built GraphQL Bundler
 
-I wanted to have a better folder structure for the GraphQL projects I work on :)
+I wanted to have a better directory structure for the GraphQL projects I work on :)
