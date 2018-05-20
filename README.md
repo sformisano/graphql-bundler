@@ -4,6 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/sformisano/graphql-bundler/badge.svg)](https://coveralls.io/github/sformisano/graphql-bundler)
 [![Maintainability](https://api.codeclimate.com/v1/badges/4c1c54fac9bb30aad8fa/maintainability)](https://codeclimate.com/github/sformisano/graphql-bundler/maintainability)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![NPM](https://nodei.co/npm/graphql-bundler.png?mini=true)](https://npmjs.org/package/graphql-bundler)
 
 ### The Problem
 
